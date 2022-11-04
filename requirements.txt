@@ -1,4 +1,5 @@
-django==3.0.5
+Django==3.0.5
 djongo==1.3.6
 pymongo[srv]==3.12.1   #djongo not supperted with superior versions
 python-decouple==3.6
+PyQt5==5.15.7
